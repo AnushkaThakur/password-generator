@@ -37,3 +37,7 @@ Open the Jupyter Notebook file under Plotter.ipynb
 4. Output: (Line Plot selection)
 
 ![image](https://user-images.githubusercontent.com/76484422/180635078-8466dedc-e6d4-4ebc-a7a7-d36a9bf4fd0a.png)
+
+
+
+
